@@ -1,0 +1,45 @@
+body{
+	background-color: black;
+}
+
+h1{
+font-family: Arial-ItalicMT;
+font-size: 55px;
+color: #FFFFFF;
+line-height: 28px;
+text-align: center;
+}
+
+p{
+font-family: ArialMT;
+font-size: 14px;
+color: #9B9B9B;
+line-height: 16px;
+}
+ul{
+font-family: ArialMT;
+font-size: 21px;
+color: #9B9B9B;
+line-height: 24px;
+}
+
+#email{
+font-family: ArialMT;
+font-size: 14px;
+color: #FFFFFF;
+line-height: 16px;
+}
+
+#phoneNumber{
+font-family: ArialMT;
+font-size: 14px;
+color: #FFFFFF;
+line-height: 16px;
+}
+
+#state{
+font-family: ArialMT;
+font-size: 14px;
+color: #FFFFFF;
+line-height: 16px;
+}
