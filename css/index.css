@@ -8,17 +8,19 @@ font-size: 55px;
 color: #FFFFFF;
 line-height: 28px;
 text-align: center;
+margin-top: 5px;
 }
 
 p{
 font-family: ArialMT;
-font-size: 14px;
+font-size: 25px;
 color: #9B9B9B;
 line-height: 16px;
 }
+
 ul{
 font-family: ArialMT;
-font-size: 21px;
+font-size: 15px;
 color: #9B9B9B;
 line-height: 24px;
 }
